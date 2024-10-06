@@ -1,4 +1,4 @@
-# **Map Animatio**
+# **Map Animation**
 
 This project demonstrates an interactive **Map Animation** where a pin moves across different locations on the map. It is built using HTML, CSS, and JavaScript and can be used to simulate path animations or pin movements for mapping applications.
 
